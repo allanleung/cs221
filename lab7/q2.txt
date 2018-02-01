@@ -1,0 +1,18 @@
+(i) Under what load factors is linear probing just as good as quadratic probing?  When does quadraticbegin to win out?
+
+Anything below 50% of the size, L and Q are both pretty close. After 50% mark, then L is slowing down, Q is better.  
+
+(ii)  How does the choice of hash function a ect double hashing?  Can you devise a hash function that makes double hashing just as good as quadratic probing?  Can you make it even better?  Make sure you try a few to be able to justify your answer.
+
+At higher capacity, D is better cause it insert faster than Q. So 900 000 / 1 000 000.
+
+
+(iii)  When does double hashing begin to win against both of the other schemes? (i.e. at what capacities and load factors do you see a signi cant gain over the other methods?)
+
+Always D is faster than L and Q. 
+
+(iv)  Finally, which open addressing scheme would you choose and why?  Would you always choose this
+scheme?
+
+I choose double because Q have its failure when and can have collision. L gets super slow when stuff gets really big. 
+D hash is the best imo.

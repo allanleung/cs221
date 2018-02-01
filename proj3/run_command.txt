@@ -1,0 +1,18 @@
+./generator0 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator1 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator2 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator3 50000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+ ./generator4 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator5 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator6 100000 | ./dict_runner-o6p0b - 1000 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator7 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator8 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
+
+./generator9 100000 | ./dict_runner-o6p0b - 10 . -mys01 -mys02 -mys03 -mys04 -mys05 -mys06 -mys07
